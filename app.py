@@ -1,4 +1,4 @@
-  import streamlit as st
+import streamlit as st
 
 # Initial users
 if "users" not in st.session_state:
